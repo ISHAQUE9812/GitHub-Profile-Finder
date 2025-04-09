@@ -1,12 +1,34 @@
-# React + Vite
+# 🚀 GitHub Profile Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive React.js app to find and view detailed GitHub user profiles using the GitHub API.
 
-Currently, two official plugins are available:
+## 🖼️ Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Live Demo](https://your-live-link.vercel.app) <!-- Replace with your deployment link -->
 
-## Expanding the ESLint configuration
+![GitHub Profile Finder Screenshot](./screenshot.png) <!-- Optional: add a screenshot image -->
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔍 Features
+
+- 🔎 Search for any GitHub user
+- 👤 Display user profile details (avatar, name, bio, location, followers, etc.)
+- 📂 Show user's repositories and stats
+- ⚡ Live API fetching from GitHub
+- 🎨 Stylish UI with Tailwind CSS
+- 📱 Fully responsive design
+
+---
+
+## 📦 Tech Stack
+
+- [React.js](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [GitHub REST API](https://docs.github.com/en/rest)
+- [Vite](https://vitejs.dev/) for fast dev experience
+
+---
+
+## 📁 Folder Structure
+
