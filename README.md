@@ -4,9 +4,7 @@ A sleek and responsive React.js app to find and view detailed GitHub user profil
 
 ## 🖼️ Demo
 
-[Live Demo](https://your-live-link.vercel.app) <!-- Replace with your deployment link -->
 
-![GitHub Profile Finder Screenshot](./screenshot.png) <!-- Optional: add a screenshot image -->
 
 ---
 
